@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormularioApp</string>
+    <string name="Resultado">%1$s %2$s %3$s\nHas solicitado matrícula en el ciclo %4$s.</string>
+    <string name="Limpiarnombre" />
+</resources>
